@@ -4,4 +4,4 @@
 
 ##### If it encounters a position where the maximum reachable index is less than the current index and the value at that position is zero, it means it cannot make any further progress and returns false, indicating that a jump to the end is not possible.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Jump-Game/).
